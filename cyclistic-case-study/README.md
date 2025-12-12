@@ -20,6 +20,12 @@ This case study analyzes 12 months of Cyclistic bike-share data to understand ho
 
 ---
 
+## 🖥️ Google Slides Presentation  
+**View the slide deck:**  
+➡️ [**Open Google Slides**](https://docs.google.com/presentation/d/1T7IJPrBM20VRR2aDOV0HFNLpuh3BjBg_ZzR3oYEdo7k/edit?usp=sharing)
+
+---
+
 ## 📊 Tools Used
 - Google Sheets  
 - Pivot tables  
@@ -37,4 +43,3 @@ This case study analyzes 12 months of Cyclistic bike-share data to understand ho
 
 ## 📌 Summary
 This project demonstrates my ability to clean messy datasets, analyze user behavior, and translate insights into actionable recommendations. It represents a complete end-to-end data analytics workflow.
-
