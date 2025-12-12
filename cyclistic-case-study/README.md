@@ -1,0 +1,3 @@
+Cyclistic Bike-Share Case Study
+
+This case study analyzes 12 months of Cyclistic bike-share data to understand how annual members and casual riders use the service differently. I cleaned and prepared the dataset, created pivot tables, and built visualizations to compare ride length, total rides, and weekly usage patterns across both groups. The analysis showed that members take more frequent weekday trips, while casual riders take longer weekend rides. Based on these insights, I developed targeted recommendations to help Cyclistic convert more casual riders into annual members through targeted marketing and membership incentives.
